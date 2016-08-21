@@ -1,0 +1,6 @@
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteRule product/([0-9]+) index.php?prod_id=$1 [QSA]
+RewriteRule logout res/php/logout.php [QSA]
+RewriteRule delete-logo res/php/deleteLogo.php [QSA]
