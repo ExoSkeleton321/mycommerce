@@ -9,7 +9,7 @@
 
 	<link rel="stylesheet" href="<?php echo ROOT_IP; ?>res/css/bootstrap/css/bootstrap.min.css" />
     <link rel="stylesheet" href="<?php echo ROOT_IP; ?>res/css/bootstrap/css/bootstrap-theme.min.css" />
-    <!--<script src="https://use.fontawesome.com/3a5ef39051.js"></script>-->
+    <script src="https://use.fontawesome.com/3a5ef39051.js"></script>
     <link rel="stylesheet" href="<?php echo ROOT_IP; ?>res/css/main.css">
 
     <?php if($site_details['site_theme'] !== 'blue'): ?>
