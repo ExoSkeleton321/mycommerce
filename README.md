@@ -9,7 +9,9 @@ Sistema para el comercio electronico dirigidas a las PyMES.
 5. <b> Agregar nuevas funciones al proyecto.</b>
 
 Para ingresar al administrador del sitio ingrese la url siguiente: <b><i>http://localhost/mycommerce/admin</i></b>
+
 Email: admin1@yahoo.com
+
 Pass: 123
 
 
