@@ -41,8 +41,8 @@ CREATE TABLE `admins` (
 --
 
 INSERT INTO `admins` (`admin_id`, `name`, `last_name`, `email`, `password`, `super_user`, `time_joined`) VALUES
-(1, 'Brian', 'Moreno', 'morenojorge1994@yahoo.com', '$2y$10$iy/Eft1beQRRheaEA4RXbe9wPRpkMT81E2uffo/xLrZM1EAt6TaC6', 1, '1469664274'),
-(2, 'Pablo', 'Hernandez', 'pablito666@hotmail.com', '$2y$10$iy/Eft1beQRRheaEA4RXbe9wPRpkMT81E2uffo/xLrZM1EAt6TaC6', 0, '1469664274');
+(1, 'Admin1', 'Admin1', 'admin@yahoo.com', '$2y$10$iy/Eft1beQRRheaEA4RXbe9wPRpkMT81E2uffo/xLrZM1EAt6TaC6', 1, '1469664274'),
+(2, 'Admin2', 'Admin2', 'admin2@yahoo.com', '$2y$10$iy/Eft1beQRRheaEA4RXbe9wPRpkMT81E2uffo/xLrZM1EAt6TaC6', 0, '1469664274');
 
 -- --------------------------------------------------------
 
